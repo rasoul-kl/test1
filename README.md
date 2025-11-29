@@ -1,2 +1,2 @@
-# this is a README file for this repositi
+.# this is a README file for this repositi
 and this repo was a good repositi
