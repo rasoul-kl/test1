@@ -1,3 +1,3 @@
-.......5..# this is a README file for this repositi
+......5..# this is a README file for this repositi
 and this repo was a good repositiuyi
 ..
